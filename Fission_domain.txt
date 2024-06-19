@@ -915,6 +915,7 @@ alist.mklubo.live
 alist.nn.ci
 aliyu.filegear-sg.me
 aliyu.gitgoogle.com
+aliyun-hk.lianaishi.pub
 aliyun.2096.gitgoogle.com
 aliyun.2096.us.kg
 aliyun.byyxb.ddnsfree.com
@@ -2173,6 +2174,7 @@ hk.ch.cloudns.ch
 hk.cloudflarest.link
 hk.cmliu.cloudns.org.cdn.cloudflare.net
 hk.cnd.6ms.pp.ua
+hk.corevie.awcode.cn
 hk.curl.eu.org
 hk.dapong.free.hr
 hk.fanxi.cc
